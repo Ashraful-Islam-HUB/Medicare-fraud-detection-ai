@@ -1,4 +1,4 @@
-# Medicare fraud Project Summary
+# Medicare fraud detection Project Summary
 
 This project demonstrates an AI-driven approach to detecting Medicare fraud using predictive analytics and anomaly detection techniques.
 
