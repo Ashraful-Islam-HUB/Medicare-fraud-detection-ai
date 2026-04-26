@@ -1,21 +1,32 @@
-# Medicare-fraud-detection-AI
-AI-driven Medicare fraud detection framework using claims and provider risk analytics.
 # AI-Driven Medicare Fraud Detection Framework
 
+## Overview
 This project presents an AI-based healthcare analytics framework for detecting potential Medicare fraud using claims-level, provider-level, and behavioral risk indicators.
 
 ## Key Features
-- Medicare claims fraud risk scoring
-- Provider behavior anomaly detection
+- Fraud risk scoring using machine learning
+- Provider anomaly detection
 - Claims pattern analysis
-- Machine learning classification model
-- Explainable AI output for risk interpretation
+- Predictive modeling for fraud detection
+- Explainable AI insights
 
 ## Technologies
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, Healthcare Analytics
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
 
-## National Importance
-Medicare fraud causes major financial loss in the U.S. healthcare system. This project demonstrates how AI and analytics can identify suspicious billing patterns, reduce improper payments, and improve healthcare integrity.
+## Project Structure
+medicare-fraud-detection-ai/
+│── data/
+│── src/
+│── notebooks/
+│── models/
+│── docs/
+## National Importance (NIW Alignment)
+Medicare fraud leads to billions of dollars in losses in the U.S. healthcare system. This project contributes to national healthcare integrity by applying AI-driven analytics to detect fraudulent patterns and improve system efficiency.
 
-## Project Status
-Initial research and prototype development in progress.
+## Status
+🚧 Initial prototype under development
