@@ -1,0 +1,48 @@
+# AI-Powered Healthcare Fraud Detection Framework
+
+## Abstract
+This project presents a scalable, AI-driven framework for detecting fraudulent activities in U.S. healthcare systems, particularly within Medicare claims data. The system integrates machine learning, anomaly detection, and behavioral analytics to identify suspicious billing patterns and provider-level risks.
+
+## Problem Statement
+Healthcare fraud costs the United States billions annually, reducing system efficiency and increasing patient costs. Traditional rule-based systems fail to detect complex fraud patterns.
+
+## Proposed Solution
+This framework introduces:
+- Predictive fraud classification using supervised learning
+- Provider-level anomaly detection
+- Behavioral pattern recognition
+- Risk scoring system for claims and providers
+
+## System Architecture
+- Data Ingestion Layer (Claims Data)
+- Preprocessing & Feature Engineering
+- Machine Learning Model Layer
+- Risk Scoring Engine
+- Explainability Module
+
+## Methodology
+- Data preprocessing using Pandas
+- Feature engineering (claim amount, frequency, provider behavior)
+- Model: Random Forest Classifier
+- Evaluation: Accuracy, Precision, Recall
+
+## Results (Prototype)
+- Fraud detection model implemented
+- Initial classification pipeline established
+- Scalable architecture design prepared
+
+## National Importance (NIW Alignment)
+This project contributes to:
+- Reducing Medicare fraud losses
+- Enhancing healthcare system integrity
+- Supporting data-driven policy decisions
+- Strengthening AI adoption in healthcare infrastructure
+
+## Future Work
+- Federated learning for privacy-preserving analytics
+- Real-time fraud detection system
+- Integration with EHR data
+- Deep learning models for pattern detection
+
+## Technologies
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Machine Learning, Healthcare Analytics
