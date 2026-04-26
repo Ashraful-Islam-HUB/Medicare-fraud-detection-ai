@@ -1,4 +1,4 @@
-# Medicare-fraud-detection-ai
+# Medicare-fraud-detection-AI
 AI-driven Medicare fraud detection framework using claims and provider risk analytics.
 # AI-Driven Medicare Fraud Detection Framework
 
