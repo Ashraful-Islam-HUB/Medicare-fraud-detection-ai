@@ -25,7 +25,7 @@ medicare-fraud-detection-ai/
 │── notebooks/
 │── models/
 │── docs/
-## National Importance (NIW Alignment)
+## National Importance
 Medicare fraud leads to billions of dollars in losses in the U.S. healthcare system. This project contributes to national healthcare integrity by applying AI-driven analytics to detect fraudulent patterns and improve system efficiency.
 
 ## Status
